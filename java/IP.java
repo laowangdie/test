@@ -25,7 +25,7 @@ class IP {
 
         return str.toString();
     }
-
+//修改Bug
     public static void main(String[] args){
         IP.load("H:\\loveapp\\codebase\\17mon\\17monipdb.dat");
 
