@@ -18,7 +18,7 @@ class IP {
 //sdfsadfasgagasgsadg
 //sdflksdjglasgdfdsfsddfssdfdfsfdsfsf
 //sadflasdfjasdfsadfasfs
-
+//2017年3月17日20:18:14
     public static String randomIp() {
         Random r = new Random();
         StringBuffer str = new StringBuffer();
